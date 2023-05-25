@@ -1,0 +1,17 @@
+.link-google {
+    background-color: #fc2803;
+}
+.pbl-bg
+{
+    background-color:#09090b;
+}
+
+.link {
+    --tw-bg-opacity: 1;
+    background-color: rgb(252 201 3 / var(--tw-bg-opacity));
+    color: rgb(1 1 1 / var(--tw-text-opacity));
+  }
+
+  .rounded-full {
+    border-radius: 0px;
+  }
